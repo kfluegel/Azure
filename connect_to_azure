@@ -1,0 +1,4 @@
+# Wenn die Azure Resource Manager modules nicht installiert sind zuerst diese mit den nächsten Befehl installieren
+# Install-Module AzureRM
+
+Login-AzureRmAccount
